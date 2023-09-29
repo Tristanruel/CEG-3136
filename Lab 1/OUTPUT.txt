@@ -1,0 +1,320 @@
+
+Welcome to the Battle Ship game!
+Hit Enter to start the game: 
+Playing Battle1, rnd = 5609
+  7 6 5 4 3 2 1 0 
+A . . . . . . . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 0, Hits 0, pieces destroyed 0, Points 0
+Enter target coordinates in the range A0 ~ H7 A7
+  7 6 5 4 3 2 1 0 
+A x . . . . . . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 1, Hits 1, pieces destroyed 0, Points 1
+Enter target coordinates in the range A0 ~ H7 A6
+  7 6 5 4 3 2 1 0 
+A x o . . . . . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 2, Hits 1, pieces destroyed 0, Points 1
+Enter target coordinates in the range A0 ~ H7 A5
+  7 6 5 4 3 2 1 0 
+A x o o . . . . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 3, Hits 1, pieces destroyed 0, Points 1
+Enter target coordinates in the range A0 ~ H7 A4
+  7 6 5 4 3 2 1 0 
+A x o o o . . . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 4, Hits 1, pieces destroyed 0, Points 1
+Enter target coordinates in the range A0 ~ H7 A3
+  7 6 5 4 3 2 1 0 
+A x o o o x . . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 5, Hits 2, pieces destroyed 0, Points 2
+Enter target coordinates in the range A0 ~ H7 A2
+  7 6 5 4 3 2 1 0 
+A x o o o x o . . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 6, Hits 2, pieces destroyed 0, Points 2
+Enter target coordinates in the range A0 ~ H7 A1
+  7 6 5 4 3 2 1 0 
+A x o o o x o o . 
+B . . . . . . . . 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 7, Hits 2, pieces destroyed 0, Points 2
+Enter target coordinates in the range A0 ~ H7 A0
+Illegal target, targets must be in the range A0 ~ H7 
+ Enter target coordinates in the range A0 ~ H7 A0
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B . . . . . . o o 
+C . . . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 8, Hits 3, pieces destroyed 1, Points 4
+Enter target coordinates in the range A0 ~ H7 b7
+Illegal target, targets must be in the range A0 ~ H7 
+ Enter target coordinates in the range A0 ~ H7 B7
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D . . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 9, Hits 4, pieces destroyed 2, Points 7
+Enter target coordinates in the range A0 ~ H7 D7
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x . . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 10, Hits 5, pieces destroyed 2, Points 8
+Enter target coordinates in the range A0 ~ H7 D6
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o . . . . . . 
+E . . . . . . . . 
+F . . . . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 11, Hits 5, pieces destroyed 2, Points 8
+Enter target coordinates in the range A0 ~ H7 E6
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o . . . . . 
+F o o o . . . . . 
+G . . . . . . . . 
+H . . . . . . . . 
+Attempts 12, Hits 6, pieces destroyed 3, Points 11
+Enter target coordinates in the range A0 ~ H7 H7
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o . . . . . 
+F o o o . . . . . 
+G o o . . . . . . 
+H x o . . . . . . 
+Attempts 13, Hits 7, pieces destroyed 4, Points 13
+Enter target coordinates in the range A0 ~ H7 H5
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o . . . . . 
+F o o o . . . . . 
+G o o o o . . . . 
+H x o x o . . . . 
+Attempts 14, Hits 8, pieces destroyed 5, Points 15
+Enter target coordinates in the range A0 ~ H7 H0
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o . . . . . 
+F o o o . . . . . 
+G o o o o . . o o 
+H x o x o . . o x 
+Attempts 15, Hits 9, pieces destroyed 6, Points 17
+Enter target coordinates in the range A0 ~ H7 H2
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o . . . . . 
+F o o o . . . . . 
+G o o o o . . o o 
+H x o x o . x o x 
+Attempts 16, Hits 10, pieces destroyed 6, Points 18
+Enter target coordinates in the range A0 ~ H7 G3
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o . . . . . 
+F o o o . . . . . 
+G o o o o x . o o 
+H x o x o . x o x 
+Attempts 17, Hits 11, pieces destroyed 6, Points 19
+Enter target coordinates in the range A0 ~ H7 G4
+This target was hit already, pick another target! 
+ Enter target coordinates in the range A0 ~ H7 F4
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o . . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o o o . . . 
+F o o o x o o . . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 18, Hits 12, pieces destroyed 7, Points 23
+Enter target coordinates in the range A0 ~ H7 B5
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x . . . o o 
+C o o . . . . . . 
+D x o o . . . . . 
+E o x o o o . . . 
+F o o o x o o . . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 19, Hits 13, pieces destroyed 7, Points 24
+Enter target coordinates in the range A0 ~ H7 C4
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x . . . o o 
+C o o . x . . . . 
+D x o o . . . . . 
+E o x o o o . . . 
+F o o o x o o . . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 20, Hits 14, pieces destroyed 7, Points 25
+Enter target coordinates in the range A0 ~ H7 D3
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x . . . o o 
+C o o . x . . . . 
+D x o o . x . . . 
+E o x o o o . . . 
+F o o o x o o . . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 21, Hits 15, pieces destroyed 7, Points 26
+Enter target coordinates in the range A0 ~ H7 D2
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x . . . o o 
+C o o . x . . . . 
+D x o o . x o . . 
+E o x o o o . . . 
+F o o o x o o . . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 22, Hits 15, pieces destroyed 7, Points 26
+Enter target coordinates in the range A0 ~ H7 E2
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x o o . o o 
+C o o o x o o . . 
+D x o o o x o o . 
+E o x o o o x o . 
+F o o o x o o o . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 23, Hits 16, pieces destroyed 8, Points 31
+Enter target coordinates in the range A0 ~ H7 B2
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x o o x o o 
+C o o o x o o . . 
+D x o o o x o o . 
+E o x o o o x o . 
+F o o o x o o o . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 24, Hits 17, pieces destroyed 8, Points 32
+ 
+ Enter target coordinates in the range A0 ~ H7 C1
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x o o x o o 
+C o o o x o o x o 
+D x o o o x o o o 
+E o x o o o x o . 
+F o o o x o o o . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 25, Hits 18, pieces destroyed 9, Points 36
+Enter target coordinates in the range A0 ~ H7 E0
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x o o x o o 
+C o o o x o o x o 
+D x o o o x o o o 
+E o x o o o x o x 
+F o o o x o o o . 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 26, Hits 19, pieces destroyed 9, Points 37
+Enter target coordinates in the range A0 ~ H7 F0
+  7 6 5 4 3 2 1 0 
+A x o o o x o o x 
+B x o x o o x o o 
+C o o o x o o x o 
+D x o o o x o o o 
+E o x o o o x o x 
+F o o o x o o o x 
+G o o o o x o o o 
+H x o x o o x o x 
+Attempts 27, Hits 20, pieces destroyed 10, Points 40
+Game finished, you won! 
+
