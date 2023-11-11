@@ -1,0 +1,158 @@
+GLREPORT
+General Ledger Transactions PAY015
+(19078)PR-F SEB ADMINISTRATIVE SERVICES INC. 10/27/21 9:46 Page 1
+Pay Ending: Oct 31 2021 Cheque Date: Oct 29 2021 Pay Period: 20
+Date      , Acct No          ,  Description                        ,  Amount
+OCT 29/21 , 0000             ,  ACCRUAL PAYABLE                    ,  14466.43, CR, -1
+OCT 29/21 , 0000             ,  BANK ACCOUNT (NET PAY)             ,  164354.86, CR, -1
+OCT 29/21 , 0000             ,  Health Benefit QC CR               ,  3681.15, CR, -1
+OCT 29/21 , 0000             ,  ER LTD CR                          ,  512.29, CR, -1
+OCT 29/21 , 0000             ,  Medical ON * memo only CR          ,  5475.92, CR, -1
+OCT 29/21 , 0000             ,  TFSATXJ PAYABLE                    ,  133.33, CR, -1
+OCT 29/21 , 0000             ,  TFSATXB Payable CR                 ,  83.33, CR, -1
+OCT 29/21 , 0000             ,  C.P.P. PAYABLE                     ,  11268.26, CR, -1
+OCT 29/21 , 0000             ,  E.H.T. PAYABLE                     ,  3050.55, CR, -1
+OCT 29/21 , 0000             ,  E.I. PAYABLE                       ,  3061.05, CR, -1
+OCT 29/21 , 0000             ,  Payroll Remit/Fees                 ,  75457.73, CR, -1
+OCT 29/21 , 0000             ,  QPIP EMPLOYEE PAYABLE              ,  369.27, CR, -1
+OCT 29/21 , 0000             ,  QPIP EMPLOYER PAYABLE              ,  517.34, CR, -1
+OCT 29/21 , 0000             ,  PROV. TAX PAYABLE                  ,  11182.16, CR, -1
+OCT 29/21 , 0000             ,  QUEBEC HEALTH PAYABLE              ,  3938.93, CR, -1
+OCT 29/21 , 0000             ,  TAX PAYABLE                        ,  41303.93, CR, -1
+OCT 29/21 , 0000             ,  VACATION ACCRUAL PAID              ,  4494.71
+OCT 29/21 , 0000             ,  WSIB/CSST PAYABLE                  ,  487.88, CR, -1
+OCT 29/21 , 0001             ,  ACCRUAL EXPENSE                    ,  14466.43
+OCT 29/21 , 0003             ,  Life Insurance                     ,  799.15, CR, -1
+OCT 29/21 , 0003             ,  AD&D                               ,  308.20, CR, -1
+OCT 29/21 , 0003             ,  Critical Illness                   ,  356.35, CR, -1
+OCT 29/21 , 0003             ,  Dependent Life                     ,  64.56, CR, -1
+OCT 29/21 , 0003             ,  TFSA JW                            ,  830.71, CR, -1
+OCT 29/21 , 0003             ,  TFSA GW                            ,  845.30, CR, -1
+OCT 29/21 , 0003             ,  Opt.Critical Illness               ,  30.73, CR, -1
+OCT 29/21 , 0003             ,  Opt. Life                          ,  429.57, CR, -1
+OCT 29/21 , 0003             ,  LTD                                ,  839.87, CR, -1
+OCT 29/21 , 0003             ,  RRSP                               ,  2015.43, CR, -1
+OCT 29/21 , 0003             ,  OPT RRSP                           ,  1106.80, CR, -1
+OCT 29/21 , 0003             ,  DCPP                               ,  2913.58, CR, -1
+OCT 29/21 , 0003             ,  RRSPJW                             ,  2573.14, CR, -1
+OCT 29/21 , 0003             ,  TFSA                               ,  943.50, CR, -1
+OCT 29/21 , 1000-5410-QC     ,  INPUT YOUR EARNING DESCRI          ,  42944.18
+OCT 29/21 , 1000-5420        ,  E.I. EXPENSE                       ,  264.15
+OCT 29/21 , 1000-5430        ,  QC Q.P.P. EXPENSE                  ,  1151.92
+OCT 29/21 , 1000-5440        ,  QC CSST EXPENSE                    ,  129.25
+OCT 29/21 , 1000-5464        ,  QUEBEC HEALTH EXPENSE              ,  2014.01
+OCT 29/21 , 1000-5467        ,  QPIP EMPLOYER EXPENSE              ,  235.50
+OCT 29/21 , 1000-5470        ,  CORSPJW - CR                       ,  96.67, CR, -1
+OCT 29/21 , 1000-5470        ,  TXBRSPGW - CR                      ,  175.00, CR, -1
+OCT 29/21 , 1000-5470        ,  CO RRSP - CR                       ,  801.82, CR, -1
+OCT 29/21 , 1000-5470        ,  CO DCPP - CR                       ,  506.50, CR, -1
+OCT 29/21 , 1000-5470        ,  CORSPJW - DR                       ,  96.67
+OCT 29/21 , 1000-5470        ,  TXBRSPGW - DR                      ,  175.00
+OCT 29/21 , 1000-5470        ,  CO RRSP                            ,  801.82
+OCT 29/21 , 1000-5470        ,  CO DCPP                            ,  506.50
+OCT 29/21 , 1000-5470        ,  Health QC                          ,  1663.61
+OCT 29/21 , 1000-5470        ,  ER LTD (memo only)                 ,  52.27
+OCT 29/21 , 1100-5410-QC     ,  INPUT YOUR EARNING DESCRI          ,  27993.96
+OCT 29/21 , 1100-5420        ,  E.I. EXPENSE                       ,  299.05
+OCT 29/21 , 1100-5430        ,  QC Q.P.P. EXPENSE                  ,  1366.01
+OCT 29/21 , 1100-5440        ,  QC CSST EXPENSE                    ,  126.33
+OCT 29/21 , 1100-5464        ,  QUEBEC HEALTH EXPENSE              ,  1281.66
+OCT 29/21 , 1100-5467        ,  QPIP EMPLOYER EXPENSE              ,  199.08
+OCT 29/21 , 1100-5470        ,  CORSPJW - CR                       ,  90.48, CR, -1
+OCT 29/21 , 1100-5470        ,  CO RRSP - CR                       ,  110.05, CR, -1
+OCT 29/21 , 1100-5470        ,  CO DCPP - CR                       ,  542.41, CR, -1
+OCT 29/21 , 1100-5470        ,  CORSPJW - DR                       ,  90.48
+OCT 29/21 , 1100-5470        ,  CO RRSP                            ,  110.05
+OCT 29/21 , 1100-5470        ,  CO DCPP                            ,  542.41
+OCT 29/21 , 1100-5470        ,  Health QC                          ,  1318.65
+OCT 29/21 , 1100-5470        ,  ER LTD (memo only)                 ,  84.17
+OCT 29/21 , 1100-5470        ,  TFSATXJ Expense                    ,  62.50
+OCT 29/21 , 1100-5470        ,  TFSATXB Expense                    ,  41.67
+OCT 29/21 , 1120-5410        ,  INPUT YOUR EARNING DESCRI          ,  63375.93
+OCT 29/21 , 1120-5420        ,  E.I. EXPENSE                       ,  619.89
+OCT 29/21 , 1120-5430        ,  C.P.P. EXPENSE                     ,  1796.40
+OCT 29/21 , 1120-5440        ,  W.C.B. EXPENSE                     ,  103.59
+OCT 29/21 , 1120-5460        ,  E.H.T. EXPENSE                     ,  1267.76
+OCT 29/21 , 1120-5470        ,  CORSPJW - CR                       ,  313.00, CR, -1
+OCT 29/21 , 1120-5470        ,  TXBRSPGW - CR                      ,  241.67, CR, -1
+OCT 29/21 , 1120-5470        ,  CO RRSP - CR                       ,  815.44, CR, -1
+OCT 29/21 , 1120-5470        ,  CO DCPP - CR                       ,  534.93, CR, -1
+OCT 29/21 , 1120-5470        ,  CORSPJW - DR                       ,  313.00
+OCT 29/21 , 1120-5470        ,  TXBRSPGW - DR                      ,  241.67
+OCT 29/21 , 1120-5470        ,  CO RRSP                            ,  815.44
+OCT 29/21 , 1120-5470        ,  CO DCPP                            ,  534.93
+OCT 29/21 , 1120-5470        ,  ER LTD (memo only)                 ,  169.51
+OCT 29/21 , 1120-5470        ,  Health ON (memo only)              ,  2902.86
+OCT 29/21 , 1120-5470        ,  TFSATXB Expense                    ,  20.83
+OCT 29/21 , 2000-5410        ,  INPUT YOUR EARNING DESCRI          ,  22704.70
+OCT 29/21 , 2000-5410-QC     ,  INPUT YOUR EARNING DESCRI          ,  9570.68
+OCT 29/21 , 2000-5420        ,  E.I. EXPENSE                       ,  127.55
+OCT 29/21 , 2000-5430        ,  C.P.P. EXPENSE                     ,  287.76
+OCT 29/21 , 2000-5430        ,  QC Q.P.P. EXPENSE                  ,  149.62
+OCT 29/21 , 2000-5440        ,  W.C.B. EXPENSE                     ,  26.12
+OCT 29/21 , 2000-5440        ,  QC CSST EXPENSE                    ,  43.34
+OCT 29/21 , 2000-5460        ,  E.H.T. EXPENSE                     ,  505.06
+OCT 29/21 , 2000-5464        ,  QUEBEC HEALTH EXPENSE              ,  439.66
+OCT 29/21 , 2000-5467        ,  QPIP EMPLOYER EXPENSE              ,  67.08
+OCT 29/21 , 2000-5470        ,  CORSPJW - CR                       ,  443.73, CR, -1
+OCT 29/21 , 2000-5470        ,  CO RRSP - CR                       ,  144.66, CR, -1
+OCT 29/21 , 2000-5470        ,  CO DCPP - CR                       ,  632.27, CR, -1
+OCT 29/21 , 2000-5470        ,  CORSPJW - DR                       ,  443.73
+OCT 29/21 , 2000-5470        ,  CO RRSP                            ,  144.66
+OCT 29/21 , 2000-5470        ,  CO DCPP                            ,  632.27
+OCT 29/21 , 2000-5470        ,  Health QC                          ,  626.31
+OCT 29/21 , 2000-5470        ,  ER LTD (memo only)                 ,  87.84
+OCT 29/21 , 2000-5470        ,  Health ON (memo only)              ,  1034.30
+OCT 29/21 , 2000-5470        ,  TFSATXJ Expense                    ,  70.83
+OCT 29/21 , 3000-5410        ,  INPUT YOUR EARNING DESCRI          ,  17506.06
+OCT 29/21 , 3000-5410-       ,  QC INPUT YOUR EARNING DESCRI       ,  4196.67
+OCT 29/21 , 3000-5420        ,  E.I. EXPENSE                       ,  119.12
+OCT 29/21 , 3000-5430        ,  C.P.P. EXPENSE                     ,  340.39
+OCT 29/21 , 3000-5440        ,  W.C.B. EXPENSE                     ,  34.37
+OCT 29/21 , 3000-5440        ,  QC CSST EXPENSE                    ,  4.32
+OCT 29/21 , 3000-5460        ,  E.H.T. EXPENSE                     ,  352.75
+OCT 29/21 , 3000-5464        ,  QUEBEC HEALTH EXPENSE              ,  203.60
+OCT 29/21 , 3000-5467        ,  QPIP EMPLOYER EXPENSE              ,  15.68
+OCT 29/21 , 3000-5470        ,  TXBRSPGW - CR                      ,  62.50, CR, -1
+OCT 29/21 , 3000-5470        ,  CO RRSP - CR                       ,  143.46, CR, -1
+OCT 29/21 , 3000-5470        ,  CO DCPP - CR                       ,  430.15, CR, -1
+OCT 29/21 , 3000-5470        ,  TXBRSPGW - DR                      ,  62.50
+OCT 29/21 , 3000-5470        ,  CO RRSP                            ,  143.46
+OCT 29/21 , 3000-5470        ,  CO DCPP                            ,  430.15
+OCT 29/21 , 3000-5470        ,  Health QC                          ,  72.58
+OCT 29/21 , 3000-5470        ,  ER LTD (memo only)                 ,  74.31
+OCT 29/21 , 3000-5470        ,  Health ON (memo only)              ,  485.63
+OCT 29/21 , 3000-5470        ,  TFSATXB Expense                    ,  20.83
+OCT 29/21 , 4100-5410        ,  INPUT YOUR EARNING DESCRI          ,  14292.53
+OCT 29/21 , 4100-5420        ,  E.I. EXPENSE                       ,  153.32
+OCT 29/21 , 4100-5430        ,  C.P.P. EXPENSE                     ,  429.17
+OCT 29/21 , 4100-5440        ,  W.C.B. EXPENSE                     ,  16.35
+OCT 29/21 , 4100-5460        ,  E.H.T. EXPENSE                     ,  286.18
+OCT 29/21 , 4100-5470        ,  CORSPJW - CR                       ,  343.70, CR, -1
+OCT 29/21 , 4100-5470        ,  CORSPJW - DR                       ,  343.70
+OCT 29/21 , 4100-5470        ,  Health ON (memo only)              ,  71.91
+OCT 29/21 , 4200-5410        ,  INPUT YOUR EARNING DESCRI          ,  7356.66
+OCT 29/21 , 4200-5420        ,  E.I. EXPENSE                       ,  39.50
+OCT 29/21 , 4200-5430        ,  C.P.P. EXPENSE                     ,  112.86
+OCT 29/21 , 4200-5440        ,  W.C.B. EXPENSE                     ,  4.21
+OCT 29/21 , 4200-5460        ,  E.H.T. EXPENSE                     ,  160.28
+OCT 29/21 , 4200-5470        ,  CORSPJW - CR                       ,  293.06, CR, -1
+OCT 29/21 , 4200-5470        ,  CORSPJW - DR                       ,  293.06
+OCT 29/21 , 4200-5470        ,  ER LTD (memo only)                 ,  12.14
+OCT 29/21 , 4200-5470        ,  Health ON (memo only)              ,  360.64
+OCT 29/21 , 5468             ,  EXPENSES                           ,  418.92
+OCT 29/21 , 5490             ,  REMITTANCES CLEARING               ,  75179.37
+OCT 29/21 , 5605             ,  Costco Discount                    ,  10.26, CR, -1
+OCT 29/21 , 5605             ,  GST/HST INVOICED                   ,  32.02
+OCT 29/21 , 5605             ,  Base Run Fee                       ,  99.00
+OCT 29/21 , 5605             ,  Processing Fees                    ,  157.60
+OCT 29/21 , 6000-5410        ,  INPUT YOUR EARNING DESCRI          ,  23484.71
+OCT 29/21 , 6000-5460        ,  E.H.T. EXPENSE                     ,  478.52
+OCT 29/21 , 6000-5470        ,  CORSPJW - CR                       ,  992.50, CR, -1
+OCT 29/21 , 6000-5470        ,  TXBRSPGW - CR                      ,  62.50, CR, -1
+OCT 29/21 , 6000-5470        ,  CO DCPP - CR                       ,  267.32, CR, -1
+OCT 29/21 , 6000-5470        ,  CORSPJW - DR                       ,  992.50
+OCT 29/21 , 6000-5470        ,  TXBRSPGW - DR                      ,  62.50
+OCT 29/21 , 6000-5470        ,  CO DCPP                            ,  267.32
+OCT 29/21 , 6000-5470        ,  ER LTD (memo only)                 ,  32.05
+OCT 29/21 , 6000-5470        ,  Health ON (memo only)              ,  620.58

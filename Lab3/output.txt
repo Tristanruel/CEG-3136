@@ -1,0 +1,406 @@
+
+Hello world!
+textbuffer address = 0x2000002c 
+sensor_states address = 0x20000010 
+sizeof sensor = 0x20 
+sizeof alarm = 0x20 
+sizeof user = 0x48 
+sizeof suoer_user = 0x48 
+sizeof system = 0x2490 
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Alarm 4001 at FLOOR1-ROOM#1 state is ALARM_OFF
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Alarm 4002 at FLOOR1-ROOM#2 state is ALARM_OFF
+Sensor 2003 at FLOOR1-ROOM#3 is sensor IDLE
+Alarm 4003 at FLOOR1-ROOM#3 state is ALARM_OFF
+Sensor 2004 at FLOOR1-ROOM#4 is sensor IDLE
+Alarm 4004 at FLOOR1-ROOM#4 state is ALARM_OFF
+Sensor 2005 at FLOOR1-ROOM#5 is sensor IDLE
+Alarm 4005 at FLOOR1-ROOM#5 state is ALARM_OFF
+Sensor 2006 at FLOOR1-ROOM#6 is sensor IDLE
+Alarm 4006 at FLOOR1-ROOM#6 state is ALARM_OFF
+Sensor 2007 at FLOOR1-ROOM#7 is sensor IDLE
+Alarm 4007 at FLOOR1-ROOM#7 state is ALARM_OFF
+Sensor 2008 at FLOOR1-ROOM#8 is sensor IDLE
+Alarm 4008 at FLOOR1-ROOM#8 state is ALARM_OFF
+user user#1 passcode user123
+user super1 passcode super12
+Sensor 2011 at FLOOR2-ROOM#1 is sensor IDLE
+Alarm 4011 at FLOOR2-ROOM#1 state is ALARM_OFF
+Sensor 2012 at FLOOR2-ROOM#2 is sensor IDLE
+Alarm 4012 at FLOOR2-ROOM#2 state is ALARM_OFF
+Sensor 2013 at FLOOR2-ROOM#3 is sensor IDLE
+Alarm 4013 at FLOOR2-ROOM#3 state is ALARM_OFF
+Sensor 2014 at FLOOR2-ROOM#4 is sensor IDLE
+Alarm 4014 at FLOOR2-ROOM#4 state is ALARM_OFF
+Sensor 2015 at FLOOR2-ROOM#5 is sensor IDLE
+Alarm 4015 at FLOOR2-ROOM#5 state is ALARM_OFF
+Sensor 2016 at FLOOR2-ROOM#6 is sensor IDLE
+Alarm 4016 at FLOOR2-ROOM#6 state is ALARM_OFF
+Sensor 2017 at FLOOR2-ROOM#7 is sensor IDLE
+Alarm 4017 at FLOOR2-ROOM#7 state is ALARM_OFF
+Sensor 2018 at FLOOR2-ROOM#8 is sensor IDLE
+Alarm 4018 at FLOOR2-ROOM#8 state is ALARM_OFF
+user user#2 passcode user234
+user super2 passcode super23
+Sensor 2021 at FLOOR3-ROOM#1 is sensor IDLE
+Alarm 4021 at FLOOR3-ROOM#1 state is ALARM_OFF
+Sensor 2022 at FLOOR3-ROOM#2 is sensor IDLE
+Alarm 4022 at FLOOR3-ROOM#2 state is ALARM_OFF
+Sensor 2023 at FLOOR3-ROOM#3 is sensor IDLE
+Alarm 4023 at FLOOR3-ROOM#3 state is ALARM_OFF
+Sensor 2024 at FLOOR3-ROOM#4 is sensor IDLE
+Alarm 4024 at FLOOR3-ROOM#4 state is ALARM_OFF
+Sensor 2025 at FLOOR3-ROOM#5 is sensor IDLE
+Alarm 4025 at FLOOR3-ROOM#5 state is ALARM_OFF
+Sensor 2026 at FLOOR3-ROOM#6 is sensor IDLE
+Alarm 4026 at FLOOR3-ROOM#6 state is ALARM_OFF
+Sensor 2027 at FLOOR3-ROOM#7 is sensor IDLE
+Alarm 4027 at FLOOR3-ROOM#7 state is ALARM_OFF
+Sensor 2028 at FLOOR3-ROOM#8 is sensor IDLE
+Alarm 4028 at FLOOR3-ROOM#8 state is ALARM_OFF
+user user#3 passcode user345
+user super3 passcode super34
+Sensor 2031 at FLOOR4-ROOM#1 is sensor IDLE
+Alarm 4031 at FLOOR4-ROOM#1 state is ALARM_OFF
+Sensor 2032 at FLOOR4-ROOM#2 is sensor IDLE
+Alarm 4032 at FLOOR4-ROOM#2 state is ALARM_OFF
+Sensor 2033 at FLOOR4-ROOM#3 is sensor IDLE
+Alarm 4033 at FLOOR4-ROOM#3 state is ALARM_OFF
+Sensor 2034 at FLOOR4-ROOM#4 is sensor IDLE
+Alarm 4034 at FLOOR4-ROOM#4 state is ALARM_OFF
+Sensor 2035 at FLOOR4-ROOM#5 is sensor IDLE
+Alarm 4035 at FLOOR4-ROOM#5 state is ALARM_OFF
+Sensor 2036 at FLOOR4-ROOM#6 is sensor IDLE
+Alarm 4036 at FLOOR4-ROOM#6 state is ALARM_OFF
+Sensor 2037 at FLOOR4-ROOM#7 is sensor IDLE
+Alarm 4037 at FLOOR4-ROOM#7 state is ALARM_OFF
+Sensor 2038 at FLOOR4-ROOM#8 is sensor IDLE
+Alarm 4038 at FLOOR4-ROOM#8 state is ALARM_OFF
+user user#4 passcode user456
+user super4 passcode super45
+Sensor 2041 at FLOOR5-ROOM#1 is sensor IDLE
+Alarm 4041 at FLOOR5-ROOM#1 state is ALARM_OFF
+Sensor 2042 at FLOOR5-ROOM#2 is sensor IDLE
+Alarm 4042 at FLOOR5-ROOM#2 state is ALARM_OFF
+Sensor 2043 at FLOOR5-ROOM#3 is sensor IDLE
+Alarm 4043 at FLOOR5-ROOM#3 state is ALARM_OFF
+Sensor 2044 at FLOOR5-ROOM#4 is sensor IDLE
+Alarm 4044 at FLOOR5-ROOM#4 state is ALARM_OFF
+Sensor 2045 at FLOOR5-ROOM#5 is sensor IDLE
+Alarm 4045 at FLOOR5-ROOM#5 state is ALARM_OFF
+Sensor 2046 at FLOOR5-ROOM#6 is sensor IDLE
+Alarm 4046 at FLOOR5-ROOM#6 state is ALARM_OFF
+Sensor 2047 at FLOOR5-ROOM#7 is sensor IDLE
+Alarm 4047 at FLOOR5-ROOM#7 state is ALARM_OFF
+Sensor 2048 at FLOOR5-ROOM#8 is sensor IDLE
+Alarm 4048 at FLOOR5-ROOM#8 state is ALARM_OFF
+user user#5 passcode user567
+user super5 passcode super56
+Sensor 2051 at FLOOR6-ROOM#1 is sensor IDLE
+Alarm 4051 at FLOOR6-ROOM#1 state is ALARM_OFF
+Sensor 2052 at FLOOR6-ROOM#2 is sensor IDLE
+Alarm 4052 at FLOOR6-ROOM#2 state is ALARM_OFF
+Sensor 2053 at FLOOR6-ROOM#3 is sensor IDLE
+Alarm 4053 at FLOOR6-ROOM#3 state is ALARM_OFF
+Sensor 2054 at FLOOR6-ROOM#4 is sensor IDLE
+Alarm 4054 at FLOOR6-ROOM#4 state is ALARM_OFF
+Sensor 2055 at FLOOR6-ROOM#5 is sensor IDLE
+Alarm 4055 at FLOOR6-ROOM#5 state is ALARM_OFF
+Sensor 2056 at FLOOR6-ROOM#6 is sensor IDLE
+Alarm 4056 at FLOOR6-ROOM#6 state is ALARM_OFF
+Sensor 2057 at FLOOR6-ROOM#7 is sensor IDLE
+Alarm 4057 at FLOOR6-ROOM#7 state is ALARM_OFF
+Sensor 2058 at FLOOR6-ROOM#8 is sensor IDLE
+Alarm 4058 at FLOOR6-ROOM#8 state is ALARM_OFF
+user user#6 passcode user678
+user super6 passcode super67
+Sensor 2061 at FLOOR7-ROOM#1 is sensor IDLE
+Alarm 4061 at FLOOR7-ROOM#1 state is ALARM_OFF
+Sensor 2062 at FLOOR7-ROOM#2 is sensor IDLE
+Alarm 4062 at FLOOR7-ROOM#2 state is ALARM_OFF
+Sensor 2063 at FLOOR7-ROOM#3 is sensor IDLE
+Alarm 4063 at FLOOR7-ROOM#3 state is ALARM_OFF
+Sensor 2064 at FLOOR7-ROOM#4 is sensor IDLE
+Alarm 4064 at FLOOR7-ROOM#4 state is ALARM_OFF
+Sensor 2065 at FLOOR7-ROOM#5 is sensor IDLE
+Alarm 4065 at FLOOR7-ROOM#5 state is ALARM_OFF
+Sensor 2066 at FLOOR7-ROOM#6 is sensor IDLE
+Alarm 4066 at FLOOR7-ROOM#6 state is ALARM_OFF
+Sensor 2067 at FLOOR7-ROOM#7 is sensor IDLE
+Alarm 4067 at FLOOR7-ROOM#7 state is ALARM_OFF
+Sensor 2068 at FLOOR7-ROOM#8 is sensor IDLE
+Alarm 4068 at FLOOR7-ROOM#8 state is ALARM_OFF
+user user#7 passcode user789
+user super7 passcode super78
+Sensor 2071 at FLOOR8-ROOM#1 is sensor IDLE
+Alarm 4071 at FLOOR8-ROOM#1 state is ALARM_OFF
+Sensor 2072 at FLOOR8-ROOM#2 is sensor IDLE
+Alarm 4072 at FLOOR8-ROOM#2 state is ALARM_OFF
+Sensor 2073 at FLOOR8-ROOM#3 is sensor IDLE
+Alarm 4073 at FLOOR8-ROOM#3 state is ALARM_OFF
+Sensor 2074 at FLOOR8-ROOM#4 is sensor IDLE
+Alarm 4074 at FLOOR8-ROOM#4 state is ALARM_OFF
+Sensor 2075 at FLOOR8-ROOM#5 is sensor IDLE
+Alarm 4075 at FLOOR8-ROOM#5 state is ALARM_OFF
+Sensor 2076 at FLOOR8-ROOM#6 is sensor IDLE
+Alarm 4076 at FLOOR8-ROOM#6 state is ALARM_OFF
+Sensor 2077 at FLOOR8-ROOM#7 is sensor IDLE
+Alarm 4077 at FLOOR8-ROOM#7 state is ALARM_OFF
+Sensor 2078 at FLOOR8-ROOM#8 is sensor IDLE
+Alarm 4078 at FLOOR8-ROOM#8 state is ALARM_OFF
+user  passcode user8910
+user super8 passcode super89
+The system is now UNARMED
+Enter passcode to ARM:Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2003 at FLOOR1-ROOM#3 is sensor TRIGGERED
+EXTI0_IRQHandler clk cnt 0x1 
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2003 at FLOOR1-ROOM#3 is sensor IDLE
+
+EXTI1_IRQHandler clk cnt 0x34f6 
+user  has just logged in 
+Enter passcode to ARM:The system is now WAITING_TO_ARM
+The system is now ARMED
+
+EXTI1_IRQHandler clk cnt 0x6fef 
+user  has just logged in 
+The system is now UNARMED
+Enter passcode to ARM:user123
+EXTI1_IRQHandler clk cnt 0xbc2e 
+user user#1 has just logged in 
+Enter passcode to ARM:The system is now WAITING_TO_ARM
+The system is now ARMED
+user123
+EXTI1_IRQHandler clk cnt 0x119c5 
+user user#1 has just logged in 
+The system is now UNARMED
+Enter passcode to ARM:
+EXTI1_IRQHandler clk cnt 0x141a7 
+user  has just logged in 
+EntThe system is now WAITING_TO_ARM
+er passcode to ARM:
+EXTI1_IRQHandler clk cnt 0x14a1a 
+user  has just logged in 
+Enter passcode to ARM:The system is now UNARMED
+user123
+EXTI1_IRQHandler clk cnt 0x1aa88 
+user user#1 has just logged in 
+Enter passcode to ARM:The system is now WAITING_TO_ARM
+The system is now ARMED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+EXTI0_IRQHandler clk cnt 0x235a0 
+The system is now ALARMED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+Sensor 2001 at FLOOR1-ROOM#1 is sensor TRIGGERED
+Sensor 2002 at FLOOR1-ROOM#2 is sensor TRIGGERED
+Sensor 2001 at FLOOR1-ROOM#1 is sensor IDLE
+Sensor 2002 at FLOOR1-ROOM#2 is sensor IDLE
+^beep^ 
+^beep^ 
+^beep^ 
+^beep^ 
+su^beep^ 
+per23
+EXTI1_IRQHandler clk cnt 0x25f75 
+user super2 has just logged in 
+Enter passcode to ARM:The system is now UNARMED
+super23
+EXTI1_IRQHandler clk cnt 0x2dda1 
+user super2 has just logged in 
+Enter passcode to ARM:The system is now WAITING_TO_ARM
+The system is now ARMED
+q
+invalid user entry
+FSM State Coverage:
+UNARMED 5       5       0       0       
+ARMING  1       5       4       0       
+ARMED   2       0       4       1       
+ALARMED 1       0       0       1       
+
