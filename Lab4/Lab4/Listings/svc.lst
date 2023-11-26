@@ -1,0 +1,78 @@
+
+
+
+ARM Macro Assembler    Page 1 
+
+
+    1 00000000                 AREA             |.text|, CODE, READONLY
+    2 00000000                 PRESERVE8                    ;
+    3 00000000                 THUMB                        ;
+    4 00000000         
+    5 00000000         
+    6 00000000                 EXPORT           SVC_Handler
+    7 00000000         
+    8 00000000         SVC_Handler
+                               FUNCTION                     ; char SVC_Handler(
+                                                            );
+    9 00000000                 IMPORT           SVC_Handler_c
+   10 00000000 F01E 0F04       TST              LR,#4       ; Called from Handl
+                                                            er Mode? 
+   11 00000004 BF14 F3EF 
+              8C09             MRSNE            R12,PSP     ; Yes, use PSP 
+   12 0000000A 46EC            MOVEQ            R12,SP      ; No, use MSP 
+   13 0000000C F8DC C018       LDR              R12,[R12,#24] ; Read Saved PC f
+                                                            rom Stack 
+   14 00000010 F83C CC02       LDRH             R12,[R12,#-2] ; Load Halfword 
+   15 00000014 F43C 4C7F       BICS             R12,R12,#0xFF00 ; Extract SVC N
+                                                            umber
+   16 00000018 4662            MOV              R2, R12
+   17 0000001A F7FF BFFE       B                SVC_Handler_c
+   18 0000001E                 ENDFUNC
+   19 0000001E         
+   20 0000001E                 END
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --apcs=
+interwork --depend=.\objects\svc.d -o.\objects\svc.o -I.\RTE\_Target_1 -IC:\Use
+rs\truel061\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include -IC:\Use
+rs\truel061\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Dev
+ice\ST\STM32F4xx\Include --predefine="__EVAL SETA 1" --predefine="__UVISION_VER
+SION SETA 533" --predefine="_RTE_ SETA 1" --predefine="STM32F417xx SETA 1" --pr
+edefine="_RTE_ SETA 1" --list=.\listings\svc.lst svc.s
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+Relocatable symbols
+
+.text 00000000
+
+Symbol: .text
+   Definitions
+      At line 1 in file svc.s
+   Uses
+      None
+Comment: .text unused
+SVC_Handler 00000000
+
+Symbol: SVC_Handler
+   Definitions
+      At line 8 in file svc.s
+   Uses
+      At line 6 in file svc.s
+Comment: SVC_Handler used once
+2 symbols
+
+
+
+ARM Macro Assembler    Page 1 Alphabetic symbol ordering
+External symbols
+
+SVC_Handler_c 00000000
+
+Symbol: SVC_Handler_c
+   Definitions
+      At line 9 in file svc.s
+   Uses
+      At line 17 in file svc.s
+Comment: SVC_Handler_c used once
+1 symbol
+338 symbols in table
